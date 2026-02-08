@@ -38,7 +38,7 @@ Eu analisei o framework com a intenção de aprender **como ele “pensa”**:
 
 A análise completa está disponível aqui:
 
-- **[Análise Técnica do php2go](./analise_tecnica_php2go.md)**
+- **[Análise Técnica do php2go](./docs/analise_tecnica.md)**
 
 ---
 
