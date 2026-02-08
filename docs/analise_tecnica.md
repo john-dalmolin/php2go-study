@@ -1,6 +1,7 @@
 # Análise Técnica do php2go
 
-Autor: [John Dalmolin](https://github.com/john-dalmolin)
+Autor: **John Dalmolin**
+
 Data: 8 de fevereiro de 2026
 
 ## Contexto da análise
